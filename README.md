@@ -18,8 +18,8 @@
 ![mongodb](https://user-images.githubusercontent.com/74770052/196807703-108e63a8-9741-441f-a5a6-35bd1a9f33bc.png)
 
 > ### FrameWorks
->[![flutter](https://user-images.githubusercontent.com/74770052/187738076-f697f189-67e1-4bc8-b2d0-cd59ba8d5b4f.png)] &nbsp;
-[![NETframework](https://user-images.githubusercontent.com/74770052/187739877-33b8ad0f-8481-4e1c-b7f5-40386eb67eed.png)]
+>![flutter](https://user-images.githubusercontent.com/74770052/187738076-f697f189-67e1-4bc8-b2d0-cd59ba8d5b4f.png) &nbsp;
+![NETframework](https://user-images.githubusercontent.com/74770052/187739877-33b8ad0f-8481-4e1c-b7f5-40386eb67eed.png)
 
 
 ## 📊 GitHub Stats:
