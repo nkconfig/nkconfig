@@ -20,9 +20,3 @@
 > ### FrameWorks
 >![flutter](https://user-images.githubusercontent.com/74770052/187738076-f697f189-67e1-4bc8-b2d0-cd59ba8d5b4f.png) &nbsp;
 ![NETframework](https://user-images.githubusercontent.com/74770052/187739877-33b8ad0f-8481-4e1c-b7f5-40386eb67eed.png)
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nergiskuzucu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nergiskuzucu&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nergiskuzucu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
