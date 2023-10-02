@@ -1,4 +1,6 @@
-<h2>nergis  <img align="right" src="giphy.gif"/>  </h2>
+<h2>nergis    </h2>
+
+<img align="right" src="giphy.gif"/>
 
 hi there, welcome to my github! <br>
 
